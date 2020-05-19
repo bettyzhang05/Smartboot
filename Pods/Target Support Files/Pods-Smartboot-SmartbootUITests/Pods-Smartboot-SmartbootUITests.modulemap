@@ -1,0 +1,6 @@
+framework module Pods_Smartboot_SmartbootUITests {
+  umbrella header "Pods-Smartboot-SmartbootUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
